@@ -1,0 +1,142 @@
+[
+  {
+    "year": 2004,
+    "date": "15 April 2004",
+    "subject": "Physics",
+    "chapter": "Kinematics",
+    "question": "A particle moves along a straight line such that its displacement at any time t is given by s = t³ − 6t² + 3t + 4. The time at which velocity is minimum is:",
+    "options": {
+      "A": "1 s",
+      "B": "2 s",
+      "C": "3 s",
+      "D": "4 s"
+    },
+    "correct": "C"
+  },
+  {
+    "year": 2004,
+    "date": "15 April 2004",
+    "subject": "Physics",
+    "chapter": "Thermodynamics",
+    "question": "In a cyclic process, the work done by the gas is 100 J and the heat supplied to the gas is 150 J. The change in internal energy of the gas is:",
+    "options": {
+      "A": "50 J",
+      "B": "250 J",
+      "C": "−50 J",
+      "D": "−250 J"
+    },
+    "correct": "C"
+  },
+  {
+    "year": 2005,
+    "date": "10 April 2005",
+    "subject": "Physics",
+    "chapter": "Current Electricity",
+    "question": "What is the equivalent resistance between points A and B for three 2Ω resistors connected in parallel?",
+    "options": {
+      "A": "6 Ω",
+      "B": "2 Ω",
+      "C": "0.67 Ω",
+      "D": "1.5 Ω"
+    },
+    "correct": "C"
+  },
+  {
+    "year": 2005,
+    "date": "10 April 2005",
+    "subject": "Physics",
+    "chapter": "Electrostatics",
+    "question": "If a charge is doubled and distance is halved, the electrostatic force changes by a factor of:",
+    "options": {
+      "A": "2",
+      "B": "4",
+      "C": "8",
+      "D": "16"
+    },
+    "correct": "D"
+  },
+  {
+    "year": 2006,
+    "date": "16 April 2006",
+    "subject": "Physics",
+    "chapter": "Laws of Motion",
+    "question": "A car is moving on a circular track with uniform speed. Which of the following remains constant?",
+    "options": {
+      "A": "Velocity",
+      "B": "Acceleration",
+      "C": "Magnitude of acceleration",
+      "D": "Direction of velocity"
+    },
+    "correct": "C"
+  },
+  {
+    "year": 2006,
+    "date": "16 April 2006",
+    "subject": "Physics",
+    "chapter": "Ray Optics",
+    "question": "A convex lens forms a real and inverted image of the same size as the object placed in front of it. The object is placed at:",
+    "options": {
+      "A": "F",
+      "B": "2F",
+      "C": "Between F and 2F",
+      "D": "Beyond 2F"
+    },
+    "correct": "B"
+  },
+  {
+    "year": 2007,
+    "date": "08 April 2007",
+    "subject": "Physics",
+    "chapter": "Gravitation",
+    "question": "The value of acceleration due to gravity decreases with:",
+    "options": {
+      "A": "Depth only",
+      "B": "Height only",
+      "C": "Both depth and height",
+      "D": "Latitude only"
+    },
+    "correct": "C"
+  },
+  {
+    "year": 2007,
+    "date": "08 April 2007",
+    "subject": "Physics",
+    "chapter": "Modern Physics",
+    "question": "The energy of a photon of wavelength 400 nm is approximately:",
+    "options": {
+      "A": "3.1 eV",
+      "B": "1.6 eV",
+      "C": "4.2 eV",
+      "D": "2.0 eV"
+    },
+    "correct": "A"
+  },
+  {
+    "year": 2008,
+    "date": "13 April 2008",
+    "subject": "Physics",
+    "chapter": "Oscillations",
+    "question": "Which one of the following is not a characteristic of simple harmonic motion?",
+    "options": {
+      "A": "Restoring force is directly proportional to displacement",
+      "B": "Motion is along a straight line",
+      "C": "Acceleration is proportional to velocity",
+      "D": "Kinetic and potential energies interchange periodically"
+    },
+    "correct": "C"
+  },
+  {
+    "year": 2008,
+    "date": "13 April 2008",
+    "subject": "Physics",
+    "chapter": "Magnetic Effects of Current",
+    "question": "A current carrying conductor is placed in a uniform magnetic field. The maximum force is experienced when the angle between current and magnetic field is:",
+    "options": {
+      "A": "0°",
+      "B": "90°",
+      "C": "180°",
+      "D": "45°"
+    },
+    "correct": "B"
+  }
+]
